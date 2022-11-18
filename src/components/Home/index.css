@@ -1,0 +1,39 @@
+.invitation-cont {
+  background-image: linear-gradient(to bottom, #99ccff, #ff66b3, #99ccff);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.gan-img {
+  height: 100px;
+  width: 80px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin: 15px;
+}
+.image-title-cont {
+  display: flex;
+  flex-direction: row;
+}
+.invi {
+  font-size: 45px;
+  font-style: italic;
+  color: #ff1a75;
+}
+.card {
+  height: 450px;
+  width: 60vw;
+  margin: 15px;
+}
+.name {
+  font-size: 40px;
+  font-style: italic;
+  color: #660066;
+}
+.para {
+  font-size: 30px;
+  color: #660066;
+}

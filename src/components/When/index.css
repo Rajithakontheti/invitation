@@ -1,0 +1,62 @@
+.when-cont {
+  background-image: linear-gradient(to bottom, orange, yellow, orange);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+.images-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.image {
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  border-radius: 12px;
+}
+.satya {
+  height: 350px;
+  width: 250px;
+}
+.date-time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.date {
+  color: maroon;
+  font-size: 40px;
+  margin-left: 18px;
+  margin-right: 18px;
+}
+.date-diya {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.diya-img {
+  height: 82px;
+  width: 82px;
+}
+.title {
+  color: maroon;
+  font-size: 40px;
+}
+.head {
+  font-size: 45px;
+  font-style: italic;
+  color: darkmagenta;
+}
+.span-date {
+  font-size: 35px;
+  font-style: italic;
+  color: crimson;
+}
